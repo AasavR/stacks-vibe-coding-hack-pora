@@ -1,0 +1,5 @@
+body { font-family: Inter, Arial, sans-serif; padding: 20px; }
+.container { max-width: 900px; margin: 0 auto; }
+.card { border: 1px solid #ddd; padding: 12px; border-radius: 8px; margin-bottom: 12px; }
+button { padding: 8px 12px; border-radius: 6px; cursor: pointer; }
+input, textarea { width: 100%; padding: 8px; margin-bottom: 8px; }
